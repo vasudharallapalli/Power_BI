@@ -21,3 +21,15 @@ Feel free to explore, contribute, or provide feedback. Let's make data **more in
 📢 Stay tuned for updates and new visuals!  
 
 **#PowerBI #DataViz #DAX #MQuery #Analytics #GitHub**  
+
+# Power BI WOW 2025 Week 7 Challenge  
+
+This **Power BI WOW** challenge highlights the enhanced **Treemap** visual, which now provides greater control and customization. This update allows users to effectively represent hierarchical data using **nested rectangles**.  
+
+## 📊 Report Overview  
+In this report, we visualize **Pipeline Value** segmented by **Sales Stages** and **Product Categories**.  
+
+The visual clearly presents the **pipeline value** in descending order within each **sales stage**, offering a structured view of **product category distribution**.  
+
+<img width="692" alt="2025Week7_tree_map_organized_into_columns" src="https://github.com/user-attachments/assets/a06f84fe-0e18-47e2-b54f-8f159badb16f" />
+
