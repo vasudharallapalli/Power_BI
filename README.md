@@ -33,3 +33,12 @@ The visual clearly presents the **pipeline value** in descending order within ea
 
 <img width="692" alt="2025Week7_tree_map_organized_into_columns" src="https://github.com/user-attachments/assets/a06f84fe-0e18-47e2-b54f-8f159badb16f" />
 
+# Power BI WoW 2025 - Week 9 Challenge  
+
+In this week's **Power BI WoW challenge**, we transform a **stacked bar chart** into a **bullet chart** to improve clarity and comparability.  
+
+This enhanced visualization allows for a more intuitive analysis of **sales trends**, highlighting both growth and decline across different territories. The **Month-over-Month percentage (MoM%)**, represented as error bars, provides a clear view of **monthly performance shifts**.  
+
+Compared to a standard **stacked bar chart**, the bullet chart makes it easier to **identify trends, detect performance gaps, and compare sales fluctuations over time**. This approach ensures that insights are **more actionable and visually distinct**.  
+
+<img width="710" alt="2025Week9 From_stacked_bar_chart_to_bullet_chart" src="https://github.com/user-attachments/assets/7cae3eb2-7bf2-4499-b2f0-3128f85f6e54" />
